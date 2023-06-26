@@ -20,8 +20,8 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  - Food and Beverage Drink Director            |  -    This is a simple project where I worked as the food and beverage director of a restaurant to calculate the total charge of food.          | https://github.com/IngBright/Food-and-Drink-Director.git     |
-| 2 |  - Shop Manager Analysis             |  -    The analysis gave insights to the manager and He was able to make key decisions from the analysis.           |    https://github.com/IngBright/Shop-Manager-Analysis.git    |
+| 1 |  - Food and Beverage Drink Director            |  -    This is a simple project where I worked as the food and beverage director of a restaurant to calculate the total charge for food a customer has to pay          | https://github.com/IngBright/Food-and-Drink-Director.git     |
+| 2 |  - Shop Manager Analysis             |  -    This analysis gave insights to the shop manager and He was able to make key decisions from the analysis.           |    https://github.com/IngBright/Shop-Manager-Analysis.git    |
 | 3 |  -    Python Class Some Time Ago         |  -  These codes were to calculate the mortgage after inputting the principal, the time and the rate.            |    https://github.com/IngBright/Python-Class-Some-Time-Ago.git     |
     |
 
